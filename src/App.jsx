@@ -3,14 +3,14 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
 import Home from "./Pages/Home";
-import Women from "./pages/Women";
-import Stiched from "./pages/Stiched";
-import Unstiched from "./pages/Unstiched";
-import Topsales from "./pages/Topsales";
-import Login from "./pages/Login";
-import Register from "./pages/Register";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
+import Women from "./Pages/Women";
+import Stiched from "./Pages/Stiched";
+import Unstiched from "./Pages/Unstiched";
+import Topsales from "./Pages/Topsales";
+import Login from "./Pages/Login";
+import Register from "./Pages/Register";
+import About from "./Pages/About";
+import Contact from "./Pages/Contact";
 import AdminDashboard from "./Pages/AdminDashboard";
 
 function App() {
