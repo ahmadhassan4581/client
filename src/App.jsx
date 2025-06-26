@@ -2,7 +2,7 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./Components/Navbar";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import Women from "./pages/Women";
 import Stiched from "./pages/Stiched";
 import Unstiched from "./pages/Unstiched";
